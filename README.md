@@ -1,2 +1,2 @@
 # Transcriptomics-Pipeline
-Transcriptomics Pipeline (QC, DGE, Functional Analysis)
+Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis
